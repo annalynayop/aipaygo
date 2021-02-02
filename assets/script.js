@@ -6,7 +6,6 @@ const heroSection = document.querySelector('.hero__section');
 let topOfNav = header.offsetTop;
 const heroSectionHeight = heroSection.offsetHeight;
 
-
 function toggleMenu() {
     navList.classList.toggle('nav__list--show');
 }
