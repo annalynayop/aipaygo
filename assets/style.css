@@ -272,6 +272,7 @@ body.header--fixed .nav__brand::after {
 /*----- About -----*/
 .about__section {
     background-color: white;
+    padding-bottom: 2rem;
 }
 
 .about__heading {
