@@ -450,7 +450,7 @@ body.header--fixed .nav__brand::after {
     .nav__brand::after,
     .nav__toggler,
     .nav__list {
-        height: 100px;
+        height: 95px;
     }
 
     .nav__toggler {
